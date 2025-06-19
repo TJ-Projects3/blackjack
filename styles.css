@@ -1,0 +1,23 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-image: url("images/poker-bkgd.jpg");
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    margin-top: 150px;
+}
+
+.button-style {
+    color: black;
+    border: none;
+    border-radius: 2px;
+    font-weight: bold;
+    width: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: orangered;
+
+    
+
+}
